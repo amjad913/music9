@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(181, 181, 181);
+    font-family: 'Rancho', cursive;
+}
+h1{
+    text-align:center;
+    margin-bottom: 10px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
